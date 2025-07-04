@@ -3,6 +3,7 @@
 This model is a fine-tuned version of [distilbert-base-uncased](https://huggingface.co/distilbert-base-uncased) on the **SST-2** dataset (Stanford Sentiment Treebank) for **binary sentiment classification (positive/negative)**.
 
 ---
+Link to the Finetuned Model: https://huggingface.co/Jalal465/DistilBERT_base_uncased_finetuned_sst2_Jalal
 
 ## 🚀 Project Overview
 
